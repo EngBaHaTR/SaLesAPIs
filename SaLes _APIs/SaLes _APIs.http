@@ -1,0 +1,6 @@
+@SaLes__APIs_HostAddress = http://localhost:5001
+
+GET {{SaLes__APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
